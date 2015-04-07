@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<Root xmlns:sex="http://www.pornhub.com/abc" xmlns:xes="http://www.hubporn.com/cba" xmlns:a="http://www.hubporn.com/dgh">
+    <sex:Tags>
+        <xes:WTs>
+            <a:WT>
+                <ID>This is ID 1</ID>
+                <Value>This is value 1</Value>
+            </a:WT>
+            <a:WT>
+                <ID>This is ID 2</ID>
+                <Value>This is value 2</Value>
+            </a:WT>
+            <a:WT>
+                <ID>This is ID 3</ID>
+                <Value>This is value 3</Value>
+            </a:WT>
+        </xes:WTs>
+    </sex:Tags>
+</Root>
